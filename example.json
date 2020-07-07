@@ -1,0 +1,889 @@
+{
+    "profileRevision": 1,
+    "profileId": "athena",
+    "profileChangesBaseRevision": 1,
+    "profileChanges": [
+        {
+            "changeType": "fullProfileUpdate",
+            "profile": {
+                "_id": "001",
+                "created": "2019-12-01T09:18:28.275Z",
+                "updated": "2020-03-22T18:26:57.808Z",
+                "rvn": 1,
+                "wipeNumber": 1,
+                "accountId": "001",
+                "profileId": "athena",
+                "version": "save_cosmetics_loadout_in_slot0_to_slot1_march_2020",
+                "items": {
+                    "3635f67c-00e4-4a04-b8ab-a959a5eb3f13": {
+                        "templateId": "CosmeticLocker:cosmeticlocker_athena",
+                        "attributes": {
+                            "locker_slots_data": {
+                                "slots": {
+                                    "MusicPack": {
+                                        "items": [
+                                            "AthenaMusicPack:MusicPack_Random"
+                                        ]
+                                    },
+                                    "Character": {
+                                        "items": [
+                                            "AthenaCharacter:CID_Random"
+                                        ],
+                                        "activeVariants": [
+                                            null
+                                        ]
+                                    },
+                                    "Backpack": {
+                                        "items": [
+                                            "AthenaBackpack:BID_Random"
+                                        ],
+                                        "activeVariants": [
+                                            null
+                                        ]
+                                    },
+                                    "SkyDiveContrail": {
+                                        "items": [
+                                            "AthenaSkyDiveContrail:Trails_Random"
+                                        ],
+                                        "activeVariants": [
+                                            null
+                                        ]
+                                    },
+                                    "Dance": {
+                                        "items": [
+                                            "AthenaDance:eid_lasagnadance",
+                                            "AthenaDance:eid_nevergonna",
+                                            "AthenaDance:eid_crabdance",
+                                            "AthenaDance:eid_skeletondance",
+                                            "AthenaDance:eid_grooving",
+                                            "AthenaDance:eid_gabbyhiphop_01"
+                                        ]
+                                    },
+                                    "LoadingScreen": {
+                                        "items": [
+                                            "AthenaLoadingScreen:LSID_Random"
+                                        ]
+                                    },
+                                    "Pickaxe": {
+                                        "items": [
+                                            "AthenaPickaxe:Pickaxe_Random"
+                                        ],
+                                        "activeVariants": [
+                                            null
+                                        ]
+                                    },
+                                    "Glider": {
+                                        "items": [
+                                            "AthenaGlider:Glider_Random"
+                                        ],
+                                        "activeVariants": [
+                                            null
+                                        ]
+                                    },
+                                    "ItemWrap": {
+                                        "items": [
+                                            "AthenaItemWrap:Wrap_Random",
+                                            "AthenaItemWrap:Wrap_Random",
+                                            "AthenaItemWrap:Wrap_Random",
+                                            "AthenaItemWrap:Wrap_Random",
+                                            "AthenaItemWrap:Wrap_Random",
+                                            "AthenaItemWrap:Wrap_Random",
+                                            "AthenaItemWrap:Wrap_Random",
+                                            "AthenaItemWrap:Wrap_Random"
+                                        ],
+                                        "activeVariants": [
+                                            null,
+                                            null,
+                                            null,
+                                            null,
+                                            null,
+                                            null,
+                                            null,
+                                            null
+                                        ]
+                                    }
+                                }
+                            },
+                            "use_count": 0,
+                            "banner_icon_template": "foundertier1banner1",
+                            "banner_color_template": "defaultcolor6",
+                            "locker_name": "",
+                            "item_seen": false,
+                            "favorite": false
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_797_Athena_Commando_F_Taco": {
+                        "templateId": "AthenaCharacter:CID_797_Athena_Commando_F_Taco",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaItemWrap:Wrap_254_NeonBands": {
+                        "templateId": "AthenaItemWrap:Wrap_254_NeonBands",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_425_MsWhipFemale1H": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_425_MsWhipFemale1H",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaGlider:Glider_ID_226_GreenJacketFemale": {
+                        "templateId": "AthenaGlider:Glider_ID_226_GreenJacketFemale",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaSpray:SPID_215_MeowsclesBox": {
+                        "templateId": "AthenaSpray:SPID_215_MeowsclesBox",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_408_MastermindShadow": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_408_MastermindShadow",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_807_Athena_Commando_M_CandyApple_B1U7X": {
+                        "templateId": "AthenaCharacter:CID_807_Athena_Commando_M_CandyApple_B1U7X",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_775_Athena_Commando_F_StreetRacerCobraGold": {
+                        "templateId": "AthenaCharacter:CID_775_Athena_Commando_F_StreetRacerCobraGold",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_804_Athena_Commando_M_SharkSuit": {
+                        "templateId": "AthenaCharacter:CID_804_Athena_Commando_M_SharkSuit",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_552_ConstellationSun": {
+                        "templateId": "AthenaBackpack:BID_552_ConstellationSun",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaItemWrap:Wrap_255_ConstellationSun": {
+                        "templateId": "AthenaItemWrap:Wrap_255_ConstellationSun",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_560_CandyApple_WTXXO": {
+                        "templateId": "AthenaBackpack:BID_560_CandyApple_WTXXO",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaEmoji:Emoji_S13_FNCS": {
+                        "templateId": "AthenaEmoji:Emoji_S13_FNCS",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_559_GreenJacket": {
+                        "templateId": "AthenaBackpack:BID_559_GreenJacket",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaDance:EID_Bollywood": {
+                        "templateId": "AthenaDance:EID_Bollywood",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_420_CandyAppleSour_JXBZA": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_420_CandyAppleSour_JXBZA",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_801_Athena_Commando_F_GolfSummer": {
+                        "templateId": "AthenaCharacter:CID_801_Athena_Commando_F_GolfSummer",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaGlider:Glider_ID_227_SharkSuit": {
+                        "templateId": "AthenaGlider:Glider_ID_227_SharkSuit",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_424_HeartBreakerFemale1H": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_424_HeartBreakerFemale1H",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_403_CavalryBanditShadow1H": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_403_CavalryBanditShadow1H",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_557_SharkSuitFemale": {
+                        "templateId": "AthenaBackpack:BID_557_SharkSuitFemale",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_421_CandySummerFemale1H": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_421_CandySummerFemale1H",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaDance:EID_JustHome": {
+                        "templateId": "AthenaDance:EID_JustHome",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_411_PartyGoldMale": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_411_PartyGoldMale",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_803_Athena_Commando_F_SharkSuit": {
+                        "templateId": "AthenaCharacter:CID_803_Athena_Commando_F_SharkSuit",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_422_GolfSummerFemale": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_422_GolfSummerFemale",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_556_SharkSuit": {
+                        "templateId": "AthenaBackpack:BID_556_SharkSuit",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_551_CupidDarkFemale": {
+                        "templateId": "AthenaBackpack:BID_551_CupidDarkFemale",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_407_HeistShadow": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_407_HeistShadow",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaDance:EID_PlayerEleven": {
+                        "templateId": "AthenaDance:EID_PlayerEleven",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_808_Athena_Commando_F_ConstellationSun": {
+                        "templateId": "AthenaCharacter:CID_808_Athena_Commando_F_ConstellationSun",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaItemWrap:Wrap_252_Dazzle": {
+                        "templateId": "AthenaItemWrap:Wrap_252_Dazzle",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_538_StreetRacerCobraGold": {
+                        "templateId": "AthenaBackpack:BID_538_StreetRacerCobraGold",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaDance:EID_Fireworks_WKX2W": {
+                        "templateId": "AthenaDance:EID_Fireworks_WKX2W",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_558_PunkDevilSummer": {
+                        "templateId": "AthenaBackpack:BID_558_PunkDevilSummer",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_806_Athena_Commando_F_GreenJacket": {
+                        "templateId": "AthenaCharacter:CID_806_Athena_Commando_F_GreenJacket",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_800_Athena_Commando_M_Robro": {
+                        "templateId": "AthenaCharacter:CID_800_Athena_Commando_M_Robro",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_550_JonesyVagabond": {
+                        "templateId": "AthenaBackpack:BID_550_JonesyVagabond",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_423_GreenJacketFemale1H": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_423_GreenJacketFemale1H",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaDance:EID_MagicMan": {
+                        "templateId": "AthenaDance:EID_MagicMan",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaDance:EID_DaBounce": {
+                        "templateId": "AthenaDance:EID_DaBounce",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_554_Robro": {
+                        "templateId": "AthenaBackpack:BID_554_Robro",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_419_JonesyVagabondMale1H": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_419_JonesyVagabondMale1H",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaDance:EID_HackySack": {
+                        "templateId": "AthenaDance:EID_HackySack",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaSpray:SPID_216_S13_FNCS": {
+                        "templateId": "AthenaSpray:SPID_216_S13_FNCS",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_426_PunkDevilSummerFemale": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_426_PunkDevilSummerFemale",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_555_HeartBreaker": {
+                        "templateId": "AthenaBackpack:BID_555_HeartBreaker",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaItemWrap:Wrap_253_FishKite": {
+                        "templateId": "AthenaItemWrap:Wrap_253_FishKite",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_561_PeppaRonnie": {
+                        "templateId": "AthenaBackpack:BID_561_PeppaRonnie",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaItemWrap:Wrap_257_WaffleCone": {
+                        "templateId": "AthenaItemWrap:Wrap_257_WaffleCone",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaItemWrap:Wrap_256_HorizontalBands": {
+                        "templateId": "AthenaItemWrap:Wrap_256_HorizontalBands",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaSpray:SPID_217_TheBratHotdog": {
+                        "templateId": "AthenaSpray:SPID_217_TheBratHotdog",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_418_CupidDarkFemale1H": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_418_CupidDarkFemale1H",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_805_Athena_Commando_F_PunkDevilSummer": {
+                        "templateId": "AthenaCharacter:CID_805_Athena_Commando_F_PunkDevilSummer",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_802_Athena_Commando_F_HeartBreaker": {
+                        "templateId": "AthenaCharacter:CID_802_Athena_Commando_F_HeartBreaker",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_798_Athena_Commando_M_JonesyVagabond": {
+                        "templateId": "AthenaCharacter:CID_798_Athena_Commando_M_JonesyVagabond",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaMusicPack:MusicPack_053_FortniteTrapRemix": {
+                        "templateId": "AthenaMusicPack:MusicPack_053_FortniteTrapRemix",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaPickaxe:Pickaxe_ID_428_SharkSuitMale1H": {
+                        "templateId": "AthenaPickaxe:Pickaxe_ID_428_SharkSuitMale1H",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaBackpack:BID_542_Foam": {
+                        "templateId": "AthenaBackpack:BID_542_Foam",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    },
+                    "AthenaCharacter:CID_799_Athena_Commando_F_CupidDark": {
+                        "templateId": "AthenaCharacter:CID_799_Athena_Commando_F_CupidDark",
+                        "attributes": {
+                            "max_level_bonus": 0,
+                            "level": 1,
+                            "item_seen": 1,
+                            "xp": 0,
+                            "variants": [],
+                            "favorite": "false"
+                        },
+                        "quantity": 1
+                    }
+                },
+                "stats": {
+                    "attributes": {
+                        "season_match_boost": 90,
+                        "loadouts": [
+                            "3635f67c-00e4-4a04-b8ab-a959a5eb3f13"
+                        ],
+                        "mfa_reward_claimed": true,
+                        "rested_xp_overflow": 0,
+                        "quest_manager": {
+                            "dailyLoginInterval": "2020-03-22T09:10:05.624Z",
+                            "dailyQuestRerolls": 0
+                        },
+                        "book_level": 1000,
+                        "season_num": 13,
+                        "book_xp": 0,
+                        "permissions": [],
+                        "season": {
+                            "numWins": 38,
+                            "numHighBracket": 95,
+                            "numLowBracket": 213
+                        },
+                        "lifetime_wins": 498,
+                        "book_purchased": true,
+                        "party_assist_quest": "efb4927c-cf61-4541-8021-fb9f56dc92ac",
+                        "purchased_battle_pass_tier_offers": [
+                            {
+                                "id": "season7_v1",
+                                "count": 1
+                            }
+                        ],
+                        "rested_xp_exchange": 1,
+                        "level": 1000,
+                        "xp_overflow": 0,
+                        "rested_xp": 99057,
+                        "rested_xp_mult": 4.25,
+                        "accountLevel": 1145,
+                        "competitive_identity": {},
+                        "inventory_limit_bonus": 0,
+                        "last_applied_loadout": "3635f67c-00e4-4a04-b8ab-a959a5eb3f13",
+                        "daily_rewards": {},
+                        "xp": 22481,
+                        "season_friend_match_boost": 0,
+                        "active_loadout_index": 0
+                    }
+                },
+                "commandRevision": 1
+            }
+        }
+    ],
+    "profileCommandRevision": 1,
+    "serverTime": "2020-03-22T18:39:38.712Z",
+    "responseVersion": 1
+}
