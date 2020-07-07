@@ -14,3 +14,5 @@ class Item
 };
 
 std::vector<Item> getItemIds(std::string url);
+
+void writeToFile(std::string filename, std::vector<Item> items);
