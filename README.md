@@ -9,6 +9,6 @@ __Features__
 - Easy to use and setup
 
 __External Libraries__
-- https://github.com/nlohmann/json#serialization--deserialization
+- https://github.com/nlohmann/json
 - https://github.com/whoshuu/cpr
 - https://benbotfn.tk/
