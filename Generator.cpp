@@ -40,7 +40,7 @@ void generate(bool newItems) // will redo the duplicate code for each case later
 	if (newItems)
 	{
 		std::vector<Item> genItems = getItemIds("https://benbotfn.tk/api/v1/newCosmetics");
-		filestream.open("test.json");
+		filestream.open("new.json");
 		filestream << profileInfo;
 
 		for (unsigned int i = 0; i < genItems.size() - 1; i++)
@@ -54,7 +54,7 @@ void generate(bool newItems) // will redo the duplicate code for each case later
 	else
 	{
 		std::vector<Item> genItems = getItemIds("https://benbotfn.tk/api/v1/cosmetics/br");
-		filestream.open("test.json");
+		filestream.open("all.json");
 		filestream << profileInfo;
 
 		for (unsigned int i = 0; i < genItems.size() - 1; i++)
