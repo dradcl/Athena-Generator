@@ -11,4 +11,4 @@ __Features__
 __External Libraries__
 - https://github.com/nlohmann/json
 - https://github.com/whoshuu/cpr
-- https://benbotfn.tk/
+- https://fortnite-api.com
