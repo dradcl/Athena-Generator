@@ -16,18 +16,18 @@ std::vector<Item> getItemIds(std::string url)
 	cpr::Response resp = cpr::Get(cpr::Url{ url });
 	nlohmann::json res = nlohmann::json::parse(resp.text);
 
-	if (url == "https://benbotfn.tk/api/v1/cosmetics/br")
+	if (url == "https://fortnite-api.com/v2/cosmetics/br")
 	{
-		items = res;
+		items = res["data"];
 	}
 	else
 	{
-		items = res["items"];
+		items = res["data"]["items"];
 	}
 
 	for (auto item : items)
 	{
-		itemsToGen.push_back(Item(item["id"], item["backendType"]));
+		itemsToGen.push_back(Item(item["id"], item["type"]["backendValue"]));
 	}
 
 	return itemsToGen;
@@ -37,11 +37,11 @@ void generate(bool newItems)
 {
 	if (newItems)
 	{
-		writeToFile("new.json", getItemIds("https://benbotfn.tk/api/v1/newCosmetics"));
+		writeToFile("new.json", getItemIds("https://fortnite-api.com/v2/cosmetics/br/new"));
 	}
 	else
 	{
-		writeToFile("all.json", getItemIds("https://benbotfn.tk/api/v1/cosmetics/br"));
+		writeToFile("all.json", getItemIds("https://fortnite-api.com/v2/cosmetics/br"));
 	}
 }
 
